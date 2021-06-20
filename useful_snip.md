@@ -1,5 +1,5 @@
 
-*** Mount Virtual Disk
+***Mount Virtual Disk***
 
 [TYPE] is the type of RAM disk to use; either tmpfs or ramfs.
 [SIZE] is the size to use for the file system. Remember that ramfs does not have a physical limit and is specified as a starting size.
