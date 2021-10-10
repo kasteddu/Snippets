@@ -6,6 +6,8 @@
 Fai partire un container
 ```bash
 docker run --name ciccio -p 8880:8880  [container]
+docker run -p 8880:8880 node-onvif
+
 ```
 
 Crea un container
