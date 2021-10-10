@@ -26,3 +26,33 @@ Cosa gira
 ```bash
 docker ps -a
 ```
+
+Creare un Container con un nome
+```bash
+docker build --tag [nome_container] .
+```
+
+Lista contatiner e stoppa container
+```bash
+docker container ls --all
+docker container stop ID_CONTARINER
+``
+
+
+
+
+
+Collegarsi ad un Container
+```bash
+docker exec -t -i ID_DEL_CONT  /bin/bash
+```
+
+
+Far partire uin Container tramite Docker Compose
+```bash
+docker-compose up -d
+docker-compose down
+```
+
+
+
