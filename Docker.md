@@ -38,16 +38,20 @@ Lista contatiner e stoppa container
 ```bash
 docker container ls --all
 docker container stop ID_CONTARINER
-``
-
-
-
-
+```
 
 Collegarsi ad un Container
 ```bash
 docker exec -t -i ID_DEL_CONT  /bin/bash
 ```
+
+
+Lista le immagine e nel caso cancella
+```bash
+docker image -ls
+docker rmi [id immagine]
+```
+
 
 
 Far partire uin Container tramite Docker Compose
