@@ -46,10 +46,11 @@ docker exec -t -i ID_DEL_CONT  /bin/bash
 ```
 
 
-Lista le immagine e nel caso cancella
+Lista le immagine -- cancella  -- aggiorna
 ```bash
 docker image -ls
 docker rmi [id immagine]
+sudo docker pull [nome immagine]
 ```
 
 
