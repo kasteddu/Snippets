@@ -7,6 +7,8 @@
 
 using docker-compose to build the image, the image name is always going to be <project>_<service>, where <service> in the example of b is web and project defaults to the directory name you're in
 
+  
+  
 
 
 Fai partire un container
