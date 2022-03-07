@@ -13,7 +13,7 @@ Find a word on a couple of file
  grep -rn 'parola' /dove
 ```
 
-Find a word on a couple of file
+Ntwork & Ports
 ```bash
  sudo netstat -anltp
  netstat -n -l
