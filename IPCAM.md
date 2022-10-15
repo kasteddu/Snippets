@@ -1,6 +1,4 @@
 
 ## Comand base per connettersi
-curl -u "admin:giraffa33" http://192.168.178.72/cgi-bin/
 
-## Comand base per connettersi
-curl -u "admin:giraffa33" http://192.168.178.72/cgi-bin/
+wget http://xxxx:xxxxx@http://192.xx.xx.xx/web/cgi-bin/hi3510/ptzctrl.cgi?-step=0&-act=focusin
