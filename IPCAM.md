@@ -7,6 +7,9 @@ wget http://xxxx:xxxxx@http://192.xx.xx.xx/web/cgi-bin/hi3510/ptzctrl.cgi?-step=
 Video & Snapshot
 
     VLC Stream (High Resolution)
+        rtsp://admin:instar@IP-Address:554/11
+
+    VLC Stream (High Resolution)
         rtsp://admin:instar@IP-Address:RTSP-Port/11
     VLC Stream (Medium Resolution)
         rtsp://admin:instar@IP-Address:RTSP-Port/12
