@@ -4,6 +4,11 @@
 wget http://xxxx:xxxxx@http://192.xx.xx.xx/web/cgi-bin/hi3510/ptzctrl.cgi?-step=0&-act=focusin
 
 
+Sicuri
+rtsp://xxx:xxx@192.168.xxx.xxx/live/ch1     Sala
+rtsp://xxx:xxxx@192.168.xxx.xxx:554/10      Giardino
+
+
 Video & Snapshot
 
     VLC Stream (High Resolution)
